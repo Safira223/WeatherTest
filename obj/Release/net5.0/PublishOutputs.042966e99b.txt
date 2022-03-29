@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\C#\Sesi 13\WeatherTest\bin\Release\net5.0\publish\WeatherTest.exe
+C:\Users\ASUS\Desktop\C#\Sesi 13\WeatherTest\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Users\ASUS\Desktop\C#\Sesi 13\WeatherTest\bin\Release\net5.0\publish\appsettings.json
+C:\Users\ASUS\Desktop\C#\Sesi 13\WeatherTest\bin\Release\net5.0\publish\WeatherTest.dll
+C:\Users\ASUS\Desktop\C#\Sesi 13\WeatherTest\bin\Release\net5.0\publish\WeatherTest.deps.json
+C:\Users\ASUS\Desktop\C#\Sesi 13\WeatherTest\bin\Release\net5.0\publish\WeatherTest.runtimeconfig.json
+C:\Users\ASUS\Desktop\C#\Sesi 13\WeatherTest\bin\Release\net5.0\publish\WeatherTest.pdb
+C:\Users\ASUS\Desktop\C#\Sesi 13\WeatherTest\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\C#\Sesi 13\WeatherTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\C#\Sesi 13\WeatherTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\C#\Sesi 13\WeatherTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
